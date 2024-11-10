@@ -17,15 +17,22 @@ Project နဲ့ ပတ်သက်သော Description, Installation, Usage, 
 
 ## Usage
 [Watch the walkthrough video on YouTube](https://www.youtube.com/watch?v=6P5lTAOLSyY)
-## Usage
-[Watch the walkthrough video on YouTube](https://www.youtube.com/watch?v=O-rv6O_HY08)
 
 
 ## Contributing
-you will create repository and git clone Terminal. use npm init -y, npm  install inquirer
+readme guide
+
 
 ## Tests
-## Tests
+
+To run tests for this project, follow these steps:
+
+1. Clone the repository to your local machine.
+  
+2. git@github.com:Min-Ya-Nant/Professional-README-Generator.git
+3. you will create repository and git clone Terminal. use npm init -y, npm  install inquirer
+
+
 
 ## License
 This project is licensed under the MIT license.
